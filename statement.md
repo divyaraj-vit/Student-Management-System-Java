@@ -1,7 +1,7 @@
 # Student Management System
 
-**Student Name:** Yash Dubey  
-**Registration No.:** 24BCY10051  
+**Student Name:** Divyaraj Rajpurohit  
+**Registration No.:** 24BCY10311  
 **Course:** Programming in Java
 
 ## Problem Statement
