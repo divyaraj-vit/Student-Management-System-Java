@@ -1,0 +1,35 @@
+SAMPLE OUTPUT (for documentation)
+
+==============================
+   STUDENT MANAGEMENT SYSTEM
+==============================
+1. Add Student
+2. View Students
+3. Search Student
+4. Add/Update Marks
+5. Delete Student
+6. Generate Report
+7. Save to File
+8. Save to Database
+9. View Database Records
+10. Exit
+
+Enter choice: 1
+Enter ID: 101
+Enter name: Rahul
+Enter course: B.Tech
+Student added successfully.
+
+Enter choice: 4
+Enter student ID: 101
+Java marks: 85
+DBMS marks: 78
+Networking marks: 90
+Marks saved successfully.
+
+Enter choice: 6
+Generating report in background...
+Percentage: 84.33%
+Grade: A
+Result: PASS
+Report generation completed.
